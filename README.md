@@ -1,35 +1,105 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<a href="https://ibb.co/0Kv9ycH"><img src="https://i.ibb.co/0Kv9ycH/logo.jpg" alt="logo" border="0"></a>
 
-Welcome USER_NAME,
+# TOYS 
+A little history of **Toys That Made Us** for curious little minds .They can choose their favorite toys in shop and can contact for further information!
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Libraries](#libraries)
+* [Deployment](#deployment)
+* [Features](#features)
+* [Testing](#testing)
+* [Inspiration](#inspiration)
+* [Credits](#credits)
+* [Contact](#contact)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## General info
+In this project I mentioned history of three popular toys --**HelloKitty**, **Lego**, **Barbie**.User can also go to shop page and can choose the toys and buy them !
 
-A blue button should appear to click: *Expose*,
 
-Another blue button should appear to click: *Open Browser*.
+## Screenshots
+<a href="https://ibb.co/DzPYFGJ"><img src="https://i.ibb.co/vVChWsF/project.png" alt="project" border="0"></a>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A blue button should appear to click: *Expose*,
+## Technologies
+* Bootstrap - version 4.2.1
+* Font-awesome - version 4.7.0
+* Cloudflare - version 2.1.1
 
-Another blue button should appear to click: *Open Browser*.
+## Libraries
+* [Code Institute](https:codeinstitute.net/)
+* [w3schools](https://www.w3schools.com/)
+* I took reference from these libraries !
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
+## Features
+Existing Features !
+* Responsive Navbar. 
+* Users request for News letter.
+* Transparent Contact Form with Users input .
+* Responsive Product card with badge,details,price ,links and buttons.
+* Footer with logo , social links and feedback .
+* Cute images
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+Features Left to Implement :
+*   create a buy page 
+* create a image gallery page
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Deployment
+```
+# Find out our current directory
+pwd
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+# List the contents of the directory
+ls
 
---------
+# Create a new local git repository
+git init
 
-Happy coding!
+# Check for the existence of the `.git` directory
+ls -a
+
+# Add all the files 
+
+git add .
+
+# Check the git status to double-check that they've been
+# added
+git status
+
+# Do our first commit
+git commit -m "Initial commit"
+
+# Add a remote
+git remote add origin <project url>
+
+# Push from our local repository to the remote
+git push -u origin master
+    
+```
+## Testing
+
+* Users can request for Newsletters and can send feedback
+* Had Responsive product cards which is easy to navigate on small and large devices
+* Takes users input in Contact page 
+* Can hover through add, like and buy products
+* socail links in footer 
+
+
+## Credits
+
+* The text in content page is copied from https://www.wikipedia.org/
+
+* The photos used in this site were obtained from https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjJy6KX_-3nAhUIqYsKHaxzBsQQPAgH
+
+## Inspiration
+
+* From my 8 year old **Daughter** who always loves Kawaii toys !
+
+
+
+
