@@ -1,7 +1,7 @@
 <a href="https://ibb.co/0Kv9ycH"><img src="https://i.ibb.co/0Kv9ycH/logo.jpg" alt="logo" border="0"></a>
 
 # TOYS 
-A little history of **Toys That Made Us** for curious little minds .They can choose their favorite toys in shop and can contact for further information!
+A three page website that tells a little history of **Toys That Made Us** for curious little minds .They can choose their favorite toys in shop and can contact for further information!
 
 
 ## Table of contents
