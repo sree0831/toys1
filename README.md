@@ -14,7 +14,7 @@ A three page website that tells a little history of **Toys That Made Us** for cu
 * [Testing](#testing)
 * [Inspiration](#inspiration)
 * [Credits](#credits)
-* [Contact](#contact)
+
 
 
 ## General info
