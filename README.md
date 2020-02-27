@@ -26,6 +26,7 @@ In this project I mentioned history of three popular toys --**HelloKitty**, **Le
 
 
 ## Technologies
+* HTML , CSS
 * Bootstrap - version 4.2.1
 * Font-awesome - version 4.7.0
 * Cloudflare - version 2.1.1
